@@ -104,6 +104,7 @@ A collection of awesome penetration testing resources
 * `docker-compose build && docker-compose up` - [OWASP NodeGoat](https://github.com/owasp/nodegoat#option-3---run-nodegoat-on-docker)
 * `docker pull citizenstig/nowasp` - [OWASP Mutillidae II Web Pen-Test Practice Application](https://hub.docker.com/r/citizenstig/nowasp/)
 * `docker pull bkimminich/juice-shop` - [OWASP Juice Shop](https://github.com/bkimminich/juice-shop#docker-container--)
+* `docker pull drwetter/testssl.sh` - [testssl.sh](https://github.com/drwetter/testssl.sh#Docker)
 
 #### Vulnerability Scanners
 * [Nexpose](https://www.rapid7.com/products/nexpose/) - Vulnerability Management & Risk Management Software
@@ -162,6 +163,7 @@ A collection of awesome penetration testing resources
 * [sslstrip](https://www.thoughtcrime.org/software/sslstrip/) - a demonstration of the HTTPS stripping attacks
 * [sslstrip2](https://github.com/LeonardoNve/sslstrip2) - SSLStrip version to defeat HSTS
 * [tls_prober](https://github.com/WestpointLtd/tls_prober) - fingerprint a server's SSL/TLS implementation
+* [testssl.sh](https://github.com/drwetter/testssl.sh) -  checks service on any port for TLS/SSL ciphers, protocols as well as some cryptographic flaws
 
 #### Web exploitation
 * [WPScan](https://wpscan.org/) - Black box WordPress vulnerability scanner
